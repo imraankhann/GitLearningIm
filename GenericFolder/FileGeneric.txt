@@ -1,4 +1,2 @@
 This is a Generic file available in branch master
 Dev's can add their changes and push back to master
-
-Ruchi did some changes
